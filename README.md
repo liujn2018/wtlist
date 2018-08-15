@@ -8,6 +8,8 @@ current.txt是当前跑谱需要下载的权重列表
 
 1srbuq-CqAGOqU8FxgIfCpr7o1fsSQR5C
 
+以#开头的行是注释行。
+
 当前current.txt里的权重是：
 
 
