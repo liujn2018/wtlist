@@ -9,7 +9,9 @@ current.txt是当前跑谱需要下载的权重列表
 1srbuq-CqAGOqU8FxgIfCpr7o1fsSQR5C
 
 当前current.txt里的权重是：
+
 1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk  c910dee9c057d144efaafb603ce69d564825ca316dd8129ce0f05c1231d1f9bc.gz 
+
 
 1wwCg2gkj15skr6bT720OX9xUKbRMngKw  d13c40993740cb77d85c838b82c08cc9c3f0fbc7d8c3761366e5d59e8f371cbd.gz
 
