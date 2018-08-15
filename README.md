@@ -13,8 +13,9 @@ current.txt是当前跑谱需要下载的权重列表
 当前current.txt里的权重是：
 
 
-1wwCg2gkj15skr6bT720OX9xUKbRMngKw     d13c409  elf
+1wwCg2gkj15skr6bT720OX9xUKbRMngKw      权重名： d13c409  elf
 
-1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk     c910dee  老王
+1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk      权重名：c910dee  老王
 
-1pxIYkhBFKcymWn_fVKrGTxIgpIrsiBFh     9c56a 新王
+1pxIYkhBFKcymWn_fVKrGTxIgpIrsiBFh      权重名：9c56a 新王
+更新时间：8月15日23:00
