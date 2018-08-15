@@ -11,8 +11,8 @@ current.txt是当前跑谱需要下载的权重列表
 当前current.txt里的权重是：
 
 
-1wwCg2gkj15skr6bT720OX9xUKbRMngKw  d13c409  elf
+1wwCg2gkj15skr6bT720OX9xUKbRMngKw     d13c409  elf
 
-1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk  c910dee  老王
+1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk     c910dee  老王
 
 第三个是圣龙加的，是新王
