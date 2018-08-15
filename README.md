@@ -15,4 +15,4 @@ current.txt是当前跑谱需要下载的权重列表
 
 1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk     c910dee  老王
 
-第三个是圣龙加的，是新王
+1pxIYkhBFKcymWn_fVKrGTxIgpIrsiBFh     9c56a 新王
