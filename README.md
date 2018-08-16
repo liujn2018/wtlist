@@ -18,4 +18,6 @@ current.txt是当前跑谱需要下载的权重列表
 1VxEo2rL6m2OtMKUu8ReeatfrkXtKt4Rk      权重名：c910dee  老王
 
 1pxIYkhBFKcymWn_fVKrGTxIgpIrsiBFh      权重名：9c56a 新王
-更新时间：8月15日23:00
+
+1P8G2KTzBzxpoyQgtec9SsHyCOKw6Ej5v      #旧 40b e2
+更新时间：8月16日10:32
