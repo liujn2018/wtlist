@@ -15,15 +15,14 @@ current.txt是当前跑谱需要下载的权重列表
 
 1wwCg2gkj15skr6bT720OX9xUKbRMngKw                权重名： d13c409  elf
 
-1sr_287UggpkQky1z1VCp_mQWhiyu8IfL                权重名：9c56a 新王 
+1Wudo6paa3ItDQc2JcZl7in7lt1riQO6u             权重名：9c56a 新王 
 
-1Hq3__Wwnc0yUabyqeaNtQPzoF35tRv4W                 9c56a 新王备份1
-                                      新王备份2
-                                      新王备份3
-                                      新王备份4
-                                      新王备份5
-                                      新王备份6
-                                      新王备份7
+1Hq3__Wwnc0yUabyqeaNtQPzoF35tRv4W                 9c56a 新王有效链接2
+                                      新王有效链接3
+                                      新王有效链接4
+                                      新王有效链接5
+                                      新王有效链接6
+                                     
 
 #77f6 挑战者
 1tIkTBCb6MPlypeu6F8p_OX0IBR1pDCDy
