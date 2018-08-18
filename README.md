@@ -26,4 +26,4 @@ current.txt是当前跑谱需要下载的权重列表
 
 1P8G2KTzBzxpoyQgtec9SsHyCOKw6Ej5v      #旧 40b e2
 
-更新时间：8月17日11:32
+更新时间：8月17日21:32
