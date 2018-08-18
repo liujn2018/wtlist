@@ -17,7 +17,7 @@ current.txt是当前跑谱需要下载的权重列表
 
 1sr_287UggpkQky1z1VCp_mQWhiyu8IfL                权重名：9c56a 新王 
 
-1_w-oKfR5rP8a4i3I_0IBeLiFGeRgJ6ti                新王备份1
+1_w-oKfR5rP8a4i3I_0IBeLiFGeRgJ6ti               9c56a 新王备份1
 
 
                                       新王备份2
