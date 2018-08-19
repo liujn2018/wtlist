@@ -21,7 +21,10 @@ current.txt是当前跑谱需要下载的权重列表
 1acaJxuORkCczwb5iBTYnSyn1oslV4wOb                   权重dfe0 新王有效链接2，可第一时间替换失效的链接
 
 
-                                      新王有效链接3
+1TRq5yLb-3szU4DrF0HkIq_yhoxEwrJJj                                     新王有效链接3
+
+
+
                                       新王有效链接4
                                       新王有效链接5
                                       新王有效链接6
