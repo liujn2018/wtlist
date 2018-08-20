@@ -17,8 +17,7 @@ current.txt是当前跑谱需要下载的权重列表
 
 12k39YOyrE9sL9ndWjb1EXlRMcpEm_ckm                 权重名：8993新王 
 
-
-1acaJxuORkCczwb5iBTYnSyn1oslV4wOb                   权重8993 新王有效链接2，可第一时间替换失效的链接
+1vnzhbSG_gDvKzsPcu7if8NmVVybYevv1                  权重8993 新王有效链接2，可第一时间替换失效的链接
 
 
                                 新王有效链接3
