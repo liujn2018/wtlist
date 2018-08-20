@@ -20,14 +20,10 @@ current.txt是当前跑谱需要下载的权重列表
 1vnzhbSG_gDvKzsPcu7if8NmVVybYevv1                  权重8993 新王有效链接2，可第一时间替换失效的链接
 
 
-                                新王有效链接3
+                                                   新王有效链接3
 
 
-
-                                      新王有效链接4
-                                      新王有效链接5
-                                      新王有效链接6
-                                     
+                                    
 
 1Wy-kIa9UMqhkezHJFEdudzCIKjQBhIy3         #b072 quantized 40b
 
