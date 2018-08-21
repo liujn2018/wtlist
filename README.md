@@ -15,9 +15,9 @@ current.txt是当前跑谱需要下载的权重列表
 
 1wwCg2gkj15skr6bT720OX9xUKbRMngKw                权重名： d13c409  elf
 
-12k39YOyrE9sL9ndWjb1EXlRMcpEm_ckm                 权重名：8993新王 
 
-1vnzhbSG_gDvKzsPcu7if8NmVVybYevv1                  权重8993 新王有效链接2，可第一时间替换失效的链接
+
+1j548cV3gd0N4r3smTf3ELHlXhvkfC-KX                 权重7141 新王有效链接2，可第一时间替换失效的链接
 
 
                                                    新王有效链接3
