@@ -24,10 +24,8 @@ current.txt是当前跑谱需要下载的权重列表
 
 
                                     
+13vsgpZ89UBYtvp-Dd4YxVm61zEhPb2BL         #e846 quantized 40b
 
-1Wy-kIa9UMqhkezHJFEdudzCIKjQBhIy3         #b072 quantized 40b
-
-1mP35BK5avpf5RzoEGbekab36UGETQRU6        #new 40b  a304
 
 1P8G2KTzBzxpoyQgtec9SsHyCOKw6Ej5v      #旧 40b e2
 
