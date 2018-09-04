@@ -17,16 +17,5 @@ current.txt是当前跑谱需要下载的权重列表
 
 
 
-1j548cV3gd0N4r3smTf3ELHlXhvkfC-KX                 权重7141 新王有效链接2，可第一时间替换失效的链接
-
-
-                                                   新王有效链接3
-
-
-                                    
-13vsgpZ89UBYtvp-Dd4YxVm61zEhPb2BL         #e846 quantized 40b
-
-
-1P8G2KTzBzxpoyQgtec9SsHyCOKw6Ej5v      #旧 40b e2
 
 更新时间：8月20日14:32
