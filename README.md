@@ -13,7 +13,9 @@ current.txt是当前跑谱需要下载的权重列表
 当前current.txt里的权重是：   
 失效的链接请务必删除
 
-1HyML6cBnuz16QHt1-prdnUlqJT03ebWt               权重名： c9d
+#挑战者25f9
+1hTR5ou3wwwV3JQ6uFk5HkT1VhN4Yrk3b
+               
 
 
 
