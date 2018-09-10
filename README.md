@@ -15,6 +15,8 @@ current.txt是当前跑谱需要下载的权重列表
 
 #挑战者25f9
 1hTR5ou3wwwV3JQ6uFk5HkT1VhN4Yrk3b
+# backup for b0a6
+1OHaclSIWtXumIcXeVDV2_awdliv7Kh4h
                
 
 
